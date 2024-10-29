@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626191368199",
+    "project_id": "note-app-7be9c",
+    "storage_bucket": "note-app-7be9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626191368199:android:1b288391a08c13de59eaa2",
+        "android_client_info": {
+          "package_name": "com.taha.not"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYnX3ZJsj8TgiEH0mvqiiUxZgMYuknFjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626191368199:android:4023ea0f496f925359eaa2",
+        "android_client_info": {
+          "package_name": "com.taha.noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYnX3ZJsj8TgiEH0mvqiiUxZgMYuknFjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
